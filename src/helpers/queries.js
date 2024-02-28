@@ -22,3 +22,15 @@ export const obtenerRecetaAPI = async(id)=>{
         
     }
 }
+
+export const borrarRecetaAPI = async(id)=>{
+    try {
+        const response = await fetch(`${URL_recetas}/${id}`, {
+            method: "DELETE"
+        })
+        console.log("🚀 ~ borrarProductoAPI ~ response:", response)
+        return response;
+    } catch (error) {
+        console.log("🚀 ~ borrarProductoAPI ~ error:", error)
+    }
+} 
