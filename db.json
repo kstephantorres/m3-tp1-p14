@@ -1,0 +1,21 @@
+{
+    "recetas": [
+      {
+        "id": "e3dd",
+        "nombre": "Risotto a la Milanese",
+        "fecha": "21-05-2022",
+        "imagen": "https://papafelice.com/cdn/shop/articles/Risotto_a_la_Milanese-min.jpg",
+        "descripcion": "El Risotto a la Milanese no necesita presentación. Muy pocos ingredientes para un plato histórico que representa a la ciudad de Milán. Su principal característica es su color dorado que le otorgan los preciados pistilos de azafrán y la irresistible cremosidad. Hoy te desvelaré todos los trucos y secretos para un risotto a la Milanese perfecto. Arroz Carnaroli, perfecto para risotti, tostado hasta que brille, los pistilos de azafrán ligeramente remojados en agua, la mantecatura a la ola con mantequilla bien fría del congelador, estos y otros pequeños trucos te permitirán preparar un plato delicioso, único y con el que podrás conquistar a tus invitados.",
+        "ingredientes": ["0.25 g azafrán en pistilos (o en polvo)","160 g arroz CARNAROLI (o ARBORIO)","75 g vino blanco","1/4 cebolla blanca","13 g mantequilla","caldo de carne caliente (según sea necesario)","60 g mantequilla (de congelador)","40 g queso Parmigiano Reggiano (de refrigerador)","4 lt agua frÍa","1 pz zanahoria","2 ramitas de apio","1 cebolla blanca","clavos de olor (a gusto)","1/2 pz pollo (o gallina)","1.5 Kg carne de res (también con hueso)","sal (a gusto)"],
+        "video": "https://www.youtube.com/embed/yVwIJSsDrKY?si=-z1ZXM_ZS_nIIC7s"
+      },{
+        "id": "22bb",
+        "nombre": "Risotto a la Milanese",
+        "fecha": "21-05-2022",
+        "imagen": "https://papafelice.com/cdn/shop/articles/Risotto_a_la_Milanese-min.jpg",
+        "descripcion": "El Risotto a la Milanese no necesita presentación. Muy pocos ingredientes para un plato histórico que representa a la ciudad de Milán. Su principal característica es su color dorado que le otorgan los preciados pistilos de azafrán y la irresistible cremosidad. Hoy te desvelaré todos los trucos y secretos para un risotto a la Milanese perfecto. Arroz Carnaroli, perfecto para risotti, tostado hasta que brille, los pistilos de azafrán ligeramente remojados en agua, la mantecatura a la ola con mantequilla bien fría del congelador, estos y otros pequeños trucos te permitirán preparar un plato delicioso, único y con el que podrás conquistar a tus invitados.",
+        "ingredientes": ["0.25 g azafrán en pistilos (o en polvo)","160 g arroz CARNAROLI (o ARBORIO)","75 g vino blanco","1/4 cebolla blanca","13 g mantequilla","caldo de carne caliente (según sea necesario)","60 g mantequilla (de congelador)","40 g queso Parmigiano Reggiano (de refrigerador)","4 lt agua frÍa","1 pz zanahoria","2 ramitas de apio","1 cebolla blanca","clavos de olor (a gusto)","1/2 pz pollo (o gallina)","1.5 Kg carne de res (también con hueso)","sal (a gusto)"],
+        "video": "https://www.youtube.com/embed/yVwIJSsDrKY?si=-z1ZXM_ZS_nIIC7s"
+      }
+    ]
+  }
