@@ -1,21 +1,118 @@
 {
-    "recetas": [
-      {
-        "id": "e3dd",
-        "nombre": "Risotto a la Milanese",
-        "fecha": "21-05-2022",
-        "imagen": "https://papafelice.com/cdn/shop/articles/Risotto_a_la_Milanese-min.jpg",
-        "descripcion": "El Risotto a la Milanese no necesita presentación. Muy pocos ingredientes para un plato histórico que representa a la ciudad de Milán. Su principal característica es su color dorado que le otorgan los preciados pistilos de azafrán y la irresistible cremosidad. Hoy te desvelaré todos los trucos y secretos para un risotto a la Milanese perfecto. Arroz Carnaroli, perfecto para risotti, tostado hasta que brille, los pistilos de azafrán ligeramente remojados en agua, la mantecatura a la ola con mantequilla bien fría del congelador, estos y otros pequeños trucos te permitirán preparar un plato delicioso, único y con el que podrás conquistar a tus invitados.",
-        "ingredientes": ["0.25 g azafrán en pistilos (o en polvo)","160 g arroz CARNAROLI (o ARBORIO)","75 g vino blanco","1/4 cebolla blanca","13 g mantequilla","caldo de carne caliente (según sea necesario)","60 g mantequilla (de congelador)","40 g queso Parmigiano Reggiano (de refrigerador)","4 lt agua frÍa","1 pz zanahoria","2 ramitas de apio","1 cebolla blanca","clavos de olor (a gusto)","1/2 pz pollo (o gallina)","1.5 Kg carne de res (también con hueso)","sal (a gusto)"],
-        "video": "https://www.youtube.com/embed/yVwIJSsDrKY?si=-z1ZXM_ZS_nIIC7s"
-      },{
-        "id": "22bb",
-        "nombre": "Risotto a la Milanese",
-        "fecha": "21-05-2022",
-        "imagen": "https://papafelice.com/cdn/shop/articles/Risotto_a_la_Milanese-min.jpg",
-        "descripcion": "El Risotto a la Milanese no necesita presentación. Muy pocos ingredientes para un plato histórico que representa a la ciudad de Milán. Su principal característica es su color dorado que le otorgan los preciados pistilos de azafrán y la irresistible cremosidad. Hoy te desvelaré todos los trucos y secretos para un risotto a la Milanese perfecto. Arroz Carnaroli, perfecto para risotti, tostado hasta que brille, los pistilos de azafrán ligeramente remojados en agua, la mantecatura a la ola con mantequilla bien fría del congelador, estos y otros pequeños trucos te permitirán preparar un plato delicioso, único y con el que podrás conquistar a tus invitados.",
-        "ingredientes": ["0.25 g azafrán en pistilos (o en polvo)","160 g arroz CARNAROLI (o ARBORIO)","75 g vino blanco","1/4 cebolla blanca","13 g mantequilla","caldo de carne caliente (según sea necesario)","60 g mantequilla (de congelador)","40 g queso Parmigiano Reggiano (de refrigerador)","4 lt agua frÍa","1 pz zanahoria","2 ramitas de apio","1 cebolla blanca","clavos de olor (a gusto)","1/2 pz pollo (o gallina)","1.5 Kg carne de res (también con hueso)","sal (a gusto)"],
-        "video": "https://www.youtube.com/embed/yVwIJSsDrKY?si=-z1ZXM_ZS_nIIC7s"
-      }
-    ]
-  }
+  "recetas": [
+    {
+      "id": "e3dd",
+      "nombre": "Risotto a la Milanese",
+      "fecha": "21- Mayo - 2022",
+      "imagen": "https://papafelice.com/cdn/shop/articles/Risotto_a_la_Milanese-min.jpg",
+      "descripcion": "El Risotto a la Milanese no necesita presentación. Muy pocos ingredientes para un plato histórico que representa a la ciudad de Milán. Su principal característica es su color dorado que le otorgan los preciados pistilos de azafrán y la irresistible cremosidad. Hoy te desvelaré todos los trucos y secretos para un risotto a la Milanese perfecto. Arroz Carnaroli, perfecto para risotti, tostado hasta que brille, los pistilos de azafrán ligeramente remojados en agua, la mantecatura a la ola con mantequilla bien fría del congelador, estos y otros pequeños trucos te permitirán preparar un plato delicioso, único y con el que podrás conquistar a tus invitados.",
+      "ingredientes": [
+        "0.25 g azafrán en pistilos (o en polvo)",
+        "160 g arroz CARNAROLI (o ARBORIO)",
+        "75 g vino blanco",
+        "1/4 cebolla blanca",
+        "13 g mantequilla",
+        "caldo de carne caliente (según sea necesario)",
+        "60 g mantequilla (de congelador)",
+        "40 g queso Parmigiano Reggiano (de refrigerador)",
+        "4 lt agua frÍa",
+        "1 pz zanahoria",
+        "2 ramitas de apio",
+        "1 cebolla blanca",
+        "clavos de olor (a gusto)",
+        "1/2 pz pollo (o gallina)",
+        "1.5 Kg carne de res (también con hueso)",
+        "sal (a gusto)"
+      ],
+      "video": "https://www.youtube.com/embed/yVwIJSsDrKY?si=-z1ZXM_ZS_nIIC7s"
+    },
+    {
+      "id": "e232",
+      "nombre": "Bucatini a la Amatriciana",
+      "fecha": "21 - Mayo - 2022",
+      "imagen": "https://papafelice.com/cdn/shop/articles/Bucatini_a_la_Amatriciana_Pagina-min.jpg",
+      "descripcion": "Se dice que este famoso plato nacido en Amatrice, un pequeño pueblo cerca de Roma, era la comida principal de los pastores, pero originalmente era sin tomates. Este ingrediente se añadió más tarde cuando se importaron tomates de América y el condimento tomó el nombre de Amatriciana. Así que imagina lo antiguo que es este plato. Lo que propongo es mi versión, casi idéntica a la original. Un plato con alma sencilla y carácter fuerte ... ¡te encantará! Diviértete cocinándolo también tu.",
+      "nuevoIngrediente": "",
+      "video": "https://www.youtube.com/embed/rGrrkCbt82U?si=oaODoJgn4nuf-5EM",
+      "ingredientes": [
+        "ajo",
+        "salsa",
+        "200 g BUCATINI",
+        "75 g Tocino",
+        "250 g Tomates Pelados (en lata sin cáscara)",
+        "40 g Queso \"Pecorino Romano\"",
+        "25 g Vino Blanco",
+        "ACEITE DE OLIVA EXTRA VIRGEN (según sea necesario)",
+        "Sal (a gusto)",
+        "Chile (a gusto)"
+      ]
+    },
+    {
+      "id": "ea56",
+      "nombre": "Bucatini a la Amatriciana",
+      "fecha": "21 - Mayo - 2022",
+      "imagen": "https://papafelice.com/cdn/shop/articles/Bucatini_a_la_Amatriciana_Pagina-min.jpg",
+      "descripcion": "Se dice que este famoso plato nacido en Amatrice, un pequeño pueblo cerca de Roma, era la comida principal de los pastores, pero originalmente era sin tomates. Este ingrediente se añadió más tarde cuando se importaron tomates de América y el condimento tomó el nombre de Amatriciana. Así que imagina lo antiguo que es este plato. Lo que propongo es mi versión, casi idéntica a la original. Un plato con alma sencilla y carácter fuerte ... ¡te encantará! Diviértete cocinándolo también tu.",
+      "nuevoIngrediente": "nuevo ingrediente",
+      "video": "https://www.youtube.com/embed/rGrrkCbt82U?si=oaODoJgn4nuf-5EM",
+      "ingredientes": [
+        "ajo",
+        "salsa",
+        "200 g BUCATINI",
+        "75 g Tocino",
+        "250 g Tomates Pelados (en lata sin cáscara)",
+        "40 g Queso \"Pecorino Romano\"",
+        "25 g Vino Blanco",
+        "ACEITE DE OLIVA EXTRA VIRGEN (según sea necesario)",
+        "Sal (a gusto)",
+        "Chile (a gusto)"
+      ]
+    },
+    {
+      "id": "81bb",
+      "nombre": "Cupcake - Arandanos",
+      "fecha": "21 - Mayo - 2022",
+      "imagen": "https://musicart.xboxlive.com/7/b2076500-0000-0000-0000-000000000002/504/image.jpg",
+      "descripcion": "Se dice que este famoso plato nacido en Amatrice, un pequeño pueblo cerca de Roma, era la comida principal de los pastores, pero originalmente era sin tomates. Este ingrediente se añadió más tarde cuando se importaron tomates de América y el condimento tomó el nombre de Amatriciana. Así que imagina lo antiguo que es este plato. Lo que propongo es mi versión, casi idéntica a la original. Un plato con alma sencilla y carácter fuerte ... ¡te encantará! Diviértete cocinándolo también tu.",
+      "nuevoIngrediente": "250 g Tomates Pelados (en lata sin cáscara)",
+      "video": "https://www.youtube.com/watch?v=t_lZFncCFxo&ab_channel=MaxPower"
+    },
+    {
+      "id": "a8a1",
+      "nombre": "Cupcake - Arandanos",
+      "fecha": "21 - Mayo - 2022",
+      "imagen": "https://images.pexels.com/photos/556829/pexels-photo-556829.jpeg",
+      "descripcion": "Se dice que este famoso plato nacido en Amatrice, un pequeño pueblo cerca de Roma, era la comida principal de los pastores, pero originalmente era sin tomates. Este ingrediente se añadió más tarde cuando se importaron tomates de América y el condimento tomó el nombre de Amatriciana. Así que imagina lo antiguo que es este plato. Lo que propongo es mi versión, casi idéntica a la original. Un plato con alma sencilla y carácter fuerte ... ¡te encantará! Diviértete cocinándolo también tu.",
+      "nuevoIngrediente": "",
+      "video": "https://www.youtube.com/watch?v=t_lZFncCFxo&ab_channel=MaxPower",
+      "ingredientes": [
+        "250 g Tomates Pelados (en lata sin cáscara)",
+        "harian"
+      ]
+    },
+    {
+      "id": "dfe8",
+      "nombre": "asdasdas",
+      "fecha": "21 - Enero - 2022",
+      "imagen": "https://musicart.xboxlive.com/7/b2076500-0000-0000-0000-000000000002/504/image.jpg",
+      "descripcion": "Se dice que este famoso plato nacido en Amatrice, un pequeño pueblo cerca de Roma, era la comida principal de los pastores, pero originalmente era sin tomates. Este ingrediente se añadió más tarde cuando se importaron tomates de América y el condimento tomó el nombre de Amatriciana. Así que imagina lo antiguo que es este plato. Lo que propongo es mi versión, casi idéntica a la original. Un plato con alma sencilla y carácter fuerte ... ¡te encantará! Diviértete cocinándolo también tu.",
+      "nuevoIngrediente": "",
+      "video": "https://www.youtube.com/watch?v=t_lZFncCFxo&ab_channel=MaxPower",
+      "ingredientes": [
+        "250 g Tomates Pelados (en lata sin cáscara)"
+      ]
+    },
+    {
+      "id": "5271",
+      "nombre": "Kevin Stephan",
+      "fecha": "21 - Enero - 2022",
+      "imagen": "https://musicart.xboxlive.com/7/b2076500-0000-0000-0000-000000000002/504/image.jpg",
+      "descripcion": "Se dice que este famoso plato nacido en Amatrice, un pequeño pueblo cerca de Roma, era la comida principal de los pastores, pero originalmente era sin tomates. Este ingrediente se añadió más tarde cuando se importaron tomates de América y el condimento tomó el nombre de Amatriciana. Así que imagina lo antiguo que es este plato. Lo que propongo es mi versión, casi idéntica a la original. Un plato con alma sencilla y carácter fuerte ... ¡te encantará! Diviértete cocinándolo también tu.",
+      "nuevoIngrediente": "",
+      "video": "https://www.youtube.com/watch?v=t_lZFncCFxo&ab_channel=MaxPower",
+      "ingredientes": [
+        "harian"
+      ]
+    }
+  ]
+}

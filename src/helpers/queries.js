@@ -18,7 +18,7 @@ export const obtenerRecetaAPI = async(id)=>{
         const response = await fetch(`${URL_recetas}/${id}`)        
         return response       
     } catch (error) {
-        console.log("🚀 ~ leerProductosAPI ~ error:", error)
+        console.log("🚀 ~ obtenerRecetaAPI ~ error:", error)
         
     }
 }
@@ -28,9 +28,39 @@ export const borrarRecetaAPI = async(id)=>{
         const response = await fetch(`${URL_recetas}/${id}`, {
             method: "DELETE"
         })
-        console.log("🚀 ~ borrarProductoAPI ~ response:", response)
+        console.log("🚀 ~ borrarRecetaAPI ~ response:", response)
         return response;
     } catch (error) {
-        console.log("🚀 ~ borrarProductoAPI ~ error:", error)
+        console.log("🚀 ~ borrarRecetaAPI ~ error:", error)
+    }
+} 
+
+export const crearRecetaAPI = async(receta)=>{
+    try {
+        const response = await fetch(URL_recetas, {
+            method: "POST",
+            headers: {
+                "Content-Type":"application/json"
+            },
+            body: JSON.stringify(receta)
+        })
+        return response;
+    } catch (error) {
+        console.log("🚀 ~ crearRecetaAPI ~ error:", error)
+    }
+} 
+
+export const editarRecetaAPI = async(receta, id)=>{
+    try {
+        const response = await fetch(`${URL_recetas}/${id}`, {
+            method: "PUT",
+            headers: {
+                "Content-Type":"application/json"
+            }, 
+            body: JSON.stringify(receta)
+        })
+        return response;
+    } catch (error) {
+        console.log("🚀 ~ editarRecetaAPI ~ error:", error)
     }
 } 
