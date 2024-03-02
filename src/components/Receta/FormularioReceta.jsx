@@ -4,7 +4,8 @@ import { crearRecetaAPI, editarRecetaAPI } from "../../helpers/queries";
 import Swal from "sweetalert2";
 import { FormGroup, Row, Container, Col, Button, Form } from "react-bootstrap";
 import { PiPlusSquareLight } from "react-icons/pi";
-import { useState } from "react";
+import { CiSquareMinus } from "react-icons/ci";
+
 
 const FormularioReceta = ({editar, titulo}) => {
 
@@ -17,6 +18,7 @@ const FormularioReceta = ({editar, titulo}) => {
         setValue
 
     }= useForm()
+
     
     const {id} = useParams()
        
@@ -200,15 +202,15 @@ const FormularioReceta = ({editar, titulo}) => {
                             <Form.Label>Lista de Ingredientes: </Form.Label>
                             <ul>
                             {ingredientes.map((ingrediente, index) => (
-                                <li key={index}>
+                                <li key={index} className="d-flex flex-row align-items-center">
                                     {ingrediente}
                                     <Button
                                     type="button"
                                     variant="link"
                                     onClick={() => borrarIngrediente(index)}
-                                    className="ml-2"
+                                    className="ml-2 text-danger fs-4"
                                     >
-                                    -
+                                    <CiSquareMinus />
                                     </Button>
                                 </li>
                             ))}
